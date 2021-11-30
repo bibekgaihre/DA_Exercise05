@@ -1,0 +1,19 @@
+[
+    {   
+        "id":"1",
+        "name":"ABC",
+        "phone":"9887778798",
+        "orders":[
+            {
+                "item_ordered":"",
+                "price":"30"
+            }
+        ],
+        "turnover":
+                {
+                    "startTimePeriod":"10.12.2021",
+                    "endTimePeriod":"30.12.2021",
+                    "value":1000
+                }
+    }
+]
